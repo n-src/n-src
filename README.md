@@ -4,7 +4,7 @@
 <p align="left">
     <a href="https://www.java.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/cpp-black?&style=for-the-badge&logo=cpp"
+            src="https://img.shields.io/badge/c++-black?&style=for-the-badge&logo=c++"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
