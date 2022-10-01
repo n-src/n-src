@@ -9,7 +9,7 @@
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+            src="https://img.shields.io/badge/HTML5-black?&style=for-the-badge&logo=html5"
         />
     </a>
      <a href="https://html.spec.whatwg.org/" target="_blank">
