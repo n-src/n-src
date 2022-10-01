@@ -14,7 +14,7 @@
     </a>
      <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/css-black?&style=for-the-badge&logo=css"
+            src="https://img.shields.io/badge/css3-black?&style=for-the-badge&logo=css3"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
