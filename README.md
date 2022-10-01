@@ -1,16 +1,31 @@
-### Hi there 👋
+## n-src
 
-<!--
-**n-src/n-src** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I have working experience with:
+<h3 align="left">🔨 Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.java.com" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Java-black?&style=for-the-badge&logo=java"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+        />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+        />
+    </a>
+</p>
