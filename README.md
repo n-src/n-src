@@ -17,6 +17,11 @@
             src="https://img.shields.io/badge/css3-black?&style=for-the-badge&logo=css3"
         />
     </a>
+         <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript"
+        />
+    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
